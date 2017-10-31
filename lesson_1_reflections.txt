@@ -1,19 +1,25 @@
 Mia Dimson
 
 use diff -u file you want to compare two files
+
+
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
   It could help you restore an edit that may revert your code to a version that previously worked in the past
 diff and commit helpful in detecting changes in codes
+
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
   You may forget to save your code or you may save it too often
+
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
   I think it is because the files are more relevant to each other in Git
+
 How can you use the commands git log and git diff to view the history of files?
   You can see how many lines were edited
+
 Now that you have your workspace set up, what do you want to try using Git for?
   class....
 
-Note:
+Notes:
 Use atom .bash_profile to get to .bash_profile
   Can be used to change colors in terminal
 
