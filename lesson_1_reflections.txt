@@ -13,6 +13,7 @@ How can you use the commands git log and git diff to view the history of files?
 Now that you have your workspace set up, what do you want to try using Git for?
   class....
 
+Note:
 Use atom .bash_profile to get to .bash_profile
   Can be used to change colors in terminal
 
