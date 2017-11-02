@@ -1,26 +1,28 @@
 What happens when you initialize a repository? Why do you need to do it?
+  You create kind of a "folder". It helps to keep all parts of a program together.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+  The staging area is where you put your files to commit a change.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+  Only commit one change at a time. Make your commit statements easy to understand
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  The branches can be used to add a new component to a game. They help because you can revert to a different branch if your code does not work correctly
 
 How do the diagrams help you visualize the branch structure?
+  To see what is a branch of what.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+  A single branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+  Pro: easy to merge, con: you may not want it to merge certain branches.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
   When you want to add a feature but you are not sure if it will work
-
-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-
-
-What are the pros and cons of Git’s automatic merging vs. always doing merges manually? 
